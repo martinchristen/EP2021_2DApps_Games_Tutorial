@@ -1,4 +1,4 @@
-# EuroPython 2021: Tutorial - Creating 2D Applications and Games
+# EuroPython 2021: Live Coding Tutorial - Creating 2D Applications and Games
 
 https://ep2021.europython.eu/talks/CKDsiGb-creating-2d-applications-and-games/
 
@@ -16,3 +16,4 @@ Then we create two sample applications together:
 
 - First we create a simple dashboard application showing latest earthquakes worldwide on a map using real time data from the USGS (United States Geological Survey)
 - The second application we create together is a vertically scrolling shooter game where you navigate a space ship through a field of asteroids.
+
