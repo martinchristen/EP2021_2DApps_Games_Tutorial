@@ -1,5 +1,10 @@
 # EuroPython 2021: Tutorial - Creating 2D Applications and Games
 
+https://ep2021.europython.eu/talks/CKDsiGb-creating-2d-applications-and-games/
+
+Schedule:
+https://ep2021.europython.eu/schedule/26-july?selected=CKDsiGb-creating-2d-applications-and-games#11:15-UTC
+
 Do you want to create fancy 2D dashboards for streaming or know how to create games? Then this tutorial is the best way to get started.
 
 This tutorial is based on the arcade module.
