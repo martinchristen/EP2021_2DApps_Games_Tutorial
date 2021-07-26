@@ -10,10 +10,26 @@ Do you want to create fancy 2D dashboards for streaming or know how to create ga
 This tutorial is based on the arcade module.
 Arcade can be used to create 2D applications and runs on many platforms, including Raspberry Pi.
 
-We start using basic drawing commands and go on to drawing images, interact with mouse, keyboard or even a game controller.
+## Outline
 
-Then we create two sample applications together:
+I'm doing interactive live coding, you can always interrupt and ask questions and I may adapt the code.
 
-- First we create a simple dashboard application showing latest earthquakes worldwide on a map using real time data from the USGS (United States Geological Survey)
-- The second application we create together is a vertically scrolling shooter game where you navigate a space ship through a field of asteroids.
+### Introduction
+
+- Introduction to (object oriented) programming with Arcade
+- Drawing things
+- Event Handling
+- Animation Basics
+- Image Handling
+- Text Handling
+
+### First Application: Earthquake Map
+
+we create a simple dashboard application showing latest earthquakes worldwide on a map using real time data from the USGS (United States Geological Survey)
+
+### Second Application: Scrolling Shooter Game
+
+We create a vertically scrolling shooter game where you navigate a space ship through a field of asteroids
+
+
 
