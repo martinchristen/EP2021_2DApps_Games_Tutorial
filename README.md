@@ -1,5 +1,7 @@
 # EuroPython 2021: Live Coding Tutorial - Creating 2D Applications and Games
 
+REPO: https://github.com/martinchristen/EP2021_2DApps_Games_Tutorial
+
 https://ep2021.europython.eu/talks/CKDsiGb-creating-2d-applications-and-games/
 
 Schedule:
