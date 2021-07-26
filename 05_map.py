@@ -11,6 +11,15 @@ class EarthQuake(arcade.Window):
 
         self.world = arcade.load_texture("data/world_hd_1920_960.jpg")
 
+    def get_position(self, lng, lat):
+        w = self.width
+        h = w / 2
+
+        x = w * (lng + 180) / 360 + self.center_x - w/2
+        y = h * (lat + 90) / 180 + self.center_y - h/2
+
+        return x, y
+
     def on_draw(self):
         arcade.start_render()
 
@@ -18,6 +27,8 @@ class EarthQuake(arcade.Window):
 
         arcade.draw_texture_rectangle(self.center_x, self.center_y, w, w/2, self.world)
 
+        x, y = self.get_position(180, 0)
+        arcade.draw_circle_filled(x, y, 6, (255, 0, 0))
 
 
 w = EarthQuake()
